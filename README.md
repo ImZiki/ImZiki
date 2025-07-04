@@ -6,7 +6,7 @@ Currently focused on building solid web applications using **Laravel**, **Blade*
 ---
 
 ### 🚀 What I'm Learning
-- 🌱 Exploring **Java**, **React.js**, **Vue.js**, and diving deeper into **Laravel internals**.
+- 🌱 Exploring **C#**, **.NET** **React**, **Vue**, and diving deeper into **Laravel internals**.
 - 📚 Constantly improving my understanding of modern backend and frontend workflows.
 
 ---
