@@ -20,11 +20,11 @@ Currently focused on building solid web applications using **Laravel**, **Blade*
 ---
 
 ### 🎮 Personal Notes
-- I'm a huge **videogame enthusiast**, especially into MMORPGs like **World of Warcraft** (*Lok'tar ogar!*).
+- I'm a huge **videogame enthusiast**, especially into MMORPGs like **World of Warcraft** (*Lok'tar ogar!*).[]
 - I enjoy learning new tech by building real projects, often blending logic with creativity (and a few easter eggs 🥚).
 
 ---
 
 ### 🔗 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-rodríguez-gonzález-bb6829bb/)
-- 💻 [My Portfolio]([https://github.com/ImZiki](https://imziki.github.io/portfolio))
+- 💻 [Portfolio](https://imziki.github.io/portfolio)
